@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "HolaMundo",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
